@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fdemarque
 - 👀 I’m interested in IT, coding and any ways of improving my skills
-- 🌱 I’m currently learning algorithyms, low-code/no-code and comand lines on bash (yeah, I'm a newbie - for now! - xD)
+- 🌱 I’m currently learning database and a little bit of JavaScript
 - 📫 You can reach me at [demarque.ads@gmail.com]
 
 <!---
